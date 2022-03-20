@@ -1,7 +1,8 @@
 # STLFileLoader
+![top_image](https://github.com/Bon-fire-people/STL-File-Loader-forUnity/blob/main/image.png)  
 UnityでSTLファイルを読み込んでPrefab化してくれます。  
 頂点数が65,535個を超えるとGameObjectが分割されます。  
-こちらの記事を参考にさせていただきました。
+STLを読み込む部分はこちらの記事を参考にさせていただきました。
 >https://qiita.com/moru-san/items/51df3bb7c26c60cf6b12
 
 # 使用方法
